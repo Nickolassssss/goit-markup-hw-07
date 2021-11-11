@@ -9,7 +9,7 @@
   margin-top: -30px;
 }
 
-.about_title {
+.about-list__title {
   margin-bottom: 10px;
   font-weight: 700;
   font-size: 14px;
@@ -18,7 +18,7 @@
   color: var(--secondary-tytle-color);
 }
 
-.about_text {
+.about-list__text {
   line-height: 1.7;
   color: var(--primary-text-color);
 }
@@ -47,7 +47,7 @@
   background: rgba(47, 48, 58, 0.8);
 }
 
-.about-icon {
+.about-list__icon {
   width: 70px;
   height: 70px;
 }
