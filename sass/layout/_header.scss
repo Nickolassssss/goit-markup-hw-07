@@ -69,16 +69,6 @@
   align-items: center;
 }
 
-.logo {
-  font-family: Raleway;
-  font-style: normal;
-  @include font(26px, 700, 32px, 0.03em);
-  color: var(--accent-color);
-}
-.header-logo {
-  color: var(--secondary-tytle-color);
-}
-
 .current {
   &::after {
     content: "";
